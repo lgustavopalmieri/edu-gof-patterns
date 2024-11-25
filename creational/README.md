@@ -10,7 +10,7 @@ Creational patterns are a category of design patterns in software engineering th
     - Thread safety in multi-threaded environments.
     - Handling serialization and cloning.
 
-### 2. Factory Method Pattern
+### 2. [Factory Method Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Factory_Method)
 - **Purpose**: Defines an interface for creating an object, but lets subclasses alter the type.
 - **Key Features**:
     - Allows a class to delegate instantiation to subclasses.
