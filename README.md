@@ -1,9 +1,9 @@
 The Gang of Four (GoF) design patterns refer to 23 foundational design patterns introduced in the book "Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides. Here's an overview of these patterns, categorized based on their purposes:
 
-### [Creational Patterns](https://https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational)
+### [Creational Patterns](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational)
 These patterns focus on the process of object creation, aiming to make it more flexible and reusable.
 
-1. [**Singleton**](https://github.com/https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Singleton): Ensures a class has only one instance and provides a global point of access to it.
+1. [**Singleton**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Singleton): Ensures a class has only one instance and provides a global point of access to it.
 2. **Factory Method**: Defines an interface for creating objects but allows subclasses to alter the type of objects that will be created.
 3. **Abstract Factory**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 4. **Builder**: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
