@@ -1,6 +1,6 @@
 Creational patterns are a category of design patterns in software engineering that deal with object creation mechanisms. They abstract the instantiation process, making the system independent of how its objects are created, composed, and represented. Here’s a deeper dive into each of the creational patterns:
 
-### 1. Singleton Pattern
+### 1. [Singleton Pattern]((https://github.com/https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Singleton))
 - **Purpose**: Ensures a class has only one instance and provides a global point of access to it.
 - **Key Features**:
     - Controlled access to a single instance.
