@@ -17,7 +17,7 @@ Creational patterns are a category of design patterns in software engineering th
     - Promotes loose coupling by avoiding hard-coded references.
     - Commonly used in frameworks where library code needs to create objects of types defined by the application.
 
-### 3. Abstract Factory Pattern
+### 3. [Abstract Factory Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Abstract_Factory)
 - **Purpose**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 - **Key Features**:
     - Encapsulates a group of individual factories with a common theme.
