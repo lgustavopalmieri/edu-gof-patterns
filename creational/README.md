@@ -24,14 +24,14 @@ Creational patterns are a category of design patterns in software engineering th
     - Clients use abstract interfaces to create objects, supporting the addition of new product families.
     - Often implemented using a set of factory methods representing products.
 
-### 4. Builder Pattern
+### 4. [Builder Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Builder)
 - **Purpose**: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
 - **Key Features**:
     - Allows step-by-step construction of complex objects.
     - Constructs an object in multiple steps, providing a clear and complete view of object creation.
     - Supports immutable objects and provides a fluent interface.
 
-### 5. Prototype Pattern
+### 5. [Prototype Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Prototype)
 - **Purpose**: Creates a new object by copying an existing instance, known as the prototype.
 - **Key Features**:
     - Leverages cloning to create new instances, which can be faster than instantiation.

@@ -6,8 +6,8 @@ These patterns focus on the process of object creation, aiming to make it more f
 1. [**Singleton**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Singleton): Ensures a class has only one instance and provides a global point of access to it.
 2. [**Factory Method**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Factory_Method): Defines an interface for creating objects but allows subclasses to alter the type of objects that will be created.
 3. [**Abstract Factory**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Abstract_Factory): Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
-4. **Builder**: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
-5. **Prototype**: Creates new objects by copying an existing object, known as the prototype.
+4. [**Builder**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Builder): Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+5. [**Prototype**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Prototype): Creates new objects by copying an existing object, known as the prototype.
 
 ### Structural Patterns
 These patterns deal with object composition, organizing classes and objects to form larger structures.
