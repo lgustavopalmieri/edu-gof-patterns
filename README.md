@@ -9,14 +9,14 @@ These patterns focus on the process of object creation, aiming to make it more f
 4. [**Builder**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Builder): Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
 5. [**Prototype**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/creational/Prototype): Creates new objects by copying an existing object, known as the prototype.
 
-### Structural Patterns
+### [Structural Patterns](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural)
 These patterns deal with object composition, organizing classes and objects to form larger structures.
 
-1. **Adapter**: Allows incompatible interfaces to work together by acting as a bridge.
+1. [**Adapter**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Adapter): Allows incompatible interfaces to work together by acting as a bridge.
 2. **Decorator**: Adds responsibilities to objects dynamically, providing a flexible alternative to subclassing for extending functionality.
 3. **Facade**: Provides a simplified interface to a complex subsystem.
-4. **Composite**: Composes objects into tree structures to represent part-whole hierarchies, allowing clients to treat individual objects and compositions uniformly.
-5. **Bridge**: Separates an object’s abstraction from its implementation so that they can vary independently.
+4. [**Composite**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Composite): Composes objects into tree structures to represent part-whole hierarchies, allowing clients to treat individual objects and compositions uniformly.
+5. [**Bridge**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Bridge): Separates an object’s abstraction from its implementation so that they can vary independently.
 6. **Flyweight**: Reduces the cost of creating and managing a large number of similar objects by sharing as much data as possible.
 7. **Proxy**: Provides a surrogate or placeholder for another object to control access to it.
 
