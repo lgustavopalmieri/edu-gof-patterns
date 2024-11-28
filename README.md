@@ -13,12 +13,12 @@ These patterns focus on the process of object creation, aiming to make it more f
 These patterns deal with object composition, organizing classes and objects to form larger structures.
 
 1. [**Adapter**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Adapter): Allows incompatible interfaces to work together by acting as a bridge.
-2. **Decorator**: Adds responsibilities to objects dynamically, providing a flexible alternative to subclassing for extending functionality.
-3. **Facade**: Provides a simplified interface to a complex subsystem.
+2. [**Decorator**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Decorator): Adds responsibilities to objects dynamically, providing a flexible alternative to subclassing for extending functionality.
+3. [**Facade**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Facade): Provides a simplified interface to a complex subsystem.
 4. [**Composite**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Composite): Composes objects into tree structures to represent part-whole hierarchies, allowing clients to treat individual objects and compositions uniformly.
 5. [**Bridge**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Bridge): Separates an object’s abstraction from its implementation so that they can vary independently.
-6. **Flyweight**: Reduces the cost of creating and managing a large number of similar objects by sharing as much data as possible.
-7. **Proxy**: Provides a surrogate or placeholder for another object to control access to it.
+6. [**Flyweight**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Flyweight): Reduces the cost of creating and managing a large number of similar objects by sharing as much data as possible.
+7. [**Proxy**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Proxy): Provides a surrogate or placeholder for another object to control access to it.
 
 ### Behavioral Patterns
 These patterns focus on effective communication and responsibility between objects, facilitating interaction and responsibility sharing.

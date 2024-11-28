@@ -21,28 +21,28 @@ Structural design patterns are a category of the Gang of Four (GoF) design patte
   - Allows clients to work with composition of objects as if they were individual objects.
 - **Common Uses**: Organization structures, graphic drawing applications.
 
-### 4. Decorator Pattern
+### 4. [Decorator Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Decorator)
 - **Purpose**: Adds responsibilities to objects dynamically, providing a flexible alternative to subclassing for extending functionality.
 - **Key Features**:
   - Allows adding behavior to individual objects without affecting other objects from the same class.
   - Typically implemented by creating a set of decorator classes that are used to wrap concrete components.
 - **Common Uses**: Adding features like scroll bars to windows, logging, or transaction management.
 
-### 5. Facade Pattern
+### 5. [Facade Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Facade)
 - **Purpose**: Provides a simplified interface to a complex subsystem.
 - **Key Features**:
   - Shields clients from subsystem components.
   - Can reduce the dependencies of outside code on the inner workings of a subsystem.
 - **Common Uses**: Library isolation, enhancing readability and manageability of complex systems.
 
-### 6. Flyweight Pattern
+### 6. [Flyweight Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Flyweight)
 - **Purpose**: Reduces memory usage by sharing as much data as possible with similar objects.
 - **Key Features**:
   - Uses sharing to support a large number of fine-grained objects efficiently.
   - Includes intrinsic (shared) and extrinsic (unshared) state.
 - **Common Uses**: Text editors, graphical applications for fonts or icon caching.
 
-### 7. Proxy Pattern
+### 7. [Proxy Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/structural/Proxy)
 - **Purpose**: Provides a surrogate or placeholder for another object to control access to it.
 - **Key Features**:
   - Offers an identical interface to the real object.
