@@ -25,11 +25,11 @@ These patterns focus on effective communication and responsibility between objec
 
 1. [**Observer**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Observer): Defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
 2. [**Strategy**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Strategy): Defines a family of algorithms, encapsulates each one, and makes them interchangeable, allowing the algorithm to vary independently from the clients that use it.
-3. **Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the requests.
-4. **Chain of Responsibility**: Passes requests along a chain of handlers, allowing the request to be processed by one of the handlers without the sender knowing which one.
-5. **Mediator**: Defines an object that encapsulates how a set of objects interact, promoting loose coupling by keeping objects from referring to each other explicitly.
-6. **Memento**: Captures and externalizes an object’s internal state so that it can be restored later, without violating encapsulation.
-7. **Visitor**: Represents an operation to be performed on the elements of an object structure, allowing new operations to be defined without changing the classes of the elements on which it operates.
+3. [**Command**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Command): Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the requests.
+4. [**Chain of Responsibility**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Chain_Of_Responsibility): Passes requests along a chain of handlers, allowing the request to be processed by one of the handlers without the sender knowing which one.
+5. [**Mediator**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Mediator): Defines an object that encapsulates how a set of objects interact, promoting loose coupling by keeping objects from referring to each other explicitly.
+6. [**Memento**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Memento): Captures and externalizes an object’s internal state so that it can be restored later, without violating encapsulation.
+7. [**Visitor**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Visitor): Represents an operation to be performed on the elements of an object structure, allowing new operations to be defined without changing the classes of the elements on which it operates.
 8. [**State**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/State): Allows an object to alter its behavior when its internal state changes, appearing to change its class.
 9. **Template Method**: Defines the skeleton of an algorithm in a method, deferring some steps to subclasses, allowing them to redefine certain steps without changing the algorithm's structure.
 10. **Iterator**: Provides a way to access elements of an aggregate object sequentially without exposing its underlying representation.
