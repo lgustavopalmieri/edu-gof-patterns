@@ -8,11 +8,11 @@ Behavioral design patterns are concerned with algorithms and the assignment of r
 - **Purpose**: Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
 - **Key Features**: Decouples the sender of a request from its receiver by encapsulating this information in a command. Useful in undo/redo mechanisms.
 
-### 3. Interpreter Pattern
+### 3. [Interpreter Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Interpreter)
 - **Purpose**: Given a language, defines a representation for its grammar and an interpreter that uses the representation to interpret sentences in the language.
 - **Key Features**: Typically used in the context of compilers or implementing domain-specific languages.
 
-### 4. Iterator Pattern
+### 4. [Iterator Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Iterator)
 - **Purpose**: Provides a way to access elements of a collection sequentially without exposing its underlying representation.
 - **Key Features**: Allows traversal of collections in a uniform manner.
 
@@ -36,7 +36,7 @@ Behavioral design patterns are concerned with algorithms and the assignment of r
 - **Purpose**: Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Allows the algorithm to vary independently from the clients that use it.
 - **Key Features**: Promotes the use of composition over inheritance for behavioral changes.
 
-### 10. Template Method Pattern
+### 10. [Template Method Pattern](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Template_Method)
 - **Purpose**: Defines the skeleton of an algorithm in an operation, deferring some steps to subclasses.
 - **Key Features**: Allows subclasses to redefine certain steps of an algorithm without changing its structure.
 

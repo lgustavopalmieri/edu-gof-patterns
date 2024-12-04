@@ -31,8 +31,8 @@ These patterns focus on effective communication and responsibility between objec
 6. [**Memento**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Memento): Captures and externalizes an object’s internal state so that it can be restored later, without violating encapsulation.
 7. [**Visitor**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Visitor): Represents an operation to be performed on the elements of an object structure, allowing new operations to be defined without changing the classes of the elements on which it operates.
 8. [**State**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/State): Allows an object to alter its behavior when its internal state changes, appearing to change its class.
-9. **Template Method**: Defines the skeleton of an algorithm in a method, deferring some steps to subclasses, allowing them to redefine certain steps without changing the algorithm's structure.
-10. **Iterator**: Provides a way to access elements of an aggregate object sequentially without exposing its underlying representation.
-11. **Interpreter**: Defines a representation of a language’s grammar, along with an interpreter that uses the representation to interpret sentences in the language.
+9. [**Template Method**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Template_Method): Defines the skeleton of an algorithm in a method, deferring some steps to subclasses, allowing them to redefine certain steps without changing the algorithm's structure.
+10. [**Iterator**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Iterator): Provides a way to access elements of an aggregate object sequentially without exposing its underlying representation.
+11. [**Interpreter**](https://github.com/NikolaiKovalenko/edu-gof-patterns/tree/main/behavioral/Interpreter): Defines a representation of a language’s grammar, along with an interpreter that uses the representation to interpret sentences in the language.
 
 These patterns provide a valuable resource for software developers, offering proven solutions to common design problems in software development, and promoting code reuse and flexibility.
